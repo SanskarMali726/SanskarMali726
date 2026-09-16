@@ -287,6 +287,34 @@ Developed and deployed the **Quizzler** application while gaining practical expe
 
 <p align="center">
 
+## 🏆 GitHub Dashboard
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SanskarMali726&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanskarMali726&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanskarMali726&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanskarMali726&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanskarMali726&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanskarMali726&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanskarMali726&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SanskarMali726/kingscar19/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ### 💻 `Code. Build. Debug. Repeat.`
 
 ⭐ **If you like my work, consider starring my repositories.**
