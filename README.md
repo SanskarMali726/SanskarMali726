@@ -312,7 +312,7 @@ Developed and deployed the **Quizzler** application while gaining practical expe
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SanskarMali726/kingscar19/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/SanskarMali726/SanskarMali726/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ### 💻 `Code. Build. Debug. Repeat.`
